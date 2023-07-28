@@ -6,3 +6,5 @@ ___
 ### Setup Project Environments
 
 By running julia_col, we are welcomed with Julia's front message, and since we want to initialize a project we will be using Julia's package manager **Pkg** which will help with things like adding, removing and updating packages, and has its own **REPL** (*read-evaluate-print-loop*). A suggestion before starting and/or creating a new project is to start Julia from the directory that will containg, if not all of them, most of the scripts. So, to enter Pkg REPL just type the right square bracket ```]``` from Julia's REPL. 
+
+Julia's environment created: ```sol_test```
